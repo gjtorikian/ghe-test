@@ -2,7 +2,7 @@ ghe-test
 ========
 
 
-Hey there.
+Hey there!
 
 
 
