@@ -1,6 +1,7 @@
 ghe-test
 ========
 
+Very nice stuff.
 
 Hey there!
 
